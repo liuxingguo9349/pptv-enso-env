@@ -8,7 +8,7 @@ We propose a mathematically grounded interpretability method, Practical Partial 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/liuxingguo9349/PPTV.git
+git clone https://github.com/liuxingguo9349/pptv-enso-env.git
 cd PPTV
 ```
 
